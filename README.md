@@ -1,5 +1,7 @@
 # backoffice
 
+Projeto destinado a importação de transações de lojas [deste](https://github.com/ttiagoestevaoo/backoffice-stores/blob/main/CNAB.txt) arquivo e visualização dos dados
+
 ## Dependências para Desenvolvimento
 
 * Yarn >= 1.22.5
