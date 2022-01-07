@@ -1,29 +1,34 @@
 # backoffice
 
-## Project setup
-```
-yarn install
-```
+## Dependências para Desenvolvimento
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+* Yarn >= 1.22.5
+* IDE de sua preferência (Visual Studio Code, Sublime, etc)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+---
 
-### Run your unit tests
-```
-yarn test:unit
-```
+## Instalação
 
-### Lints and fixes files
-```
-yarn lint
-```
+    ```
+    yarn install
+    ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Rodar a aplicação
+
+    ```
+    yarn serve
+    ```
+
+## Comandos úteis
+
+### Rodar testes
+
+    ```
+    yarn test:unit
+    ```
+
+### Rodar linter e corrigir bugs
+
+    ```
+    yarn lint
+    ```
